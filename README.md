@@ -2,7 +2,7 @@
 
 **Smart real-time waste reporting and collection platform**
 
-Built for **Smart India Hackathon 2024** — Problem Statement ID `SIH1592`, Theme: *Clean & Green Technology*, Category: Software.
+Problem Statement ID `SIH1592`, Theme: *Clean & Green Technology*, Category: Software.
 Team: **CleanCoders**
 
 ---
