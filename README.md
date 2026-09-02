@@ -2,7 +2,7 @@
 
 **Smart real-time waste reporting and collection platform**
 
-Problem Statement ID `SIH1592`, Theme: *Clean & Green Technology*, Category: Software.
+Problem Statement ID `SIH26195`, Theme: *Clean & Green Technology*, Category: Software.
 Team: **CleanCoders**
 
 ---
